@@ -4,6 +4,10 @@ A docker image to hold pwn challenges in ctf war base on ubuntu 18.04
 
 > [Asuri-Team/xinetd-kafel](https://github.com/Asuri-Team/xinetd-kafel)
 
+## Info
+Port: 10000
+Could Modify from src/pwn.xinetd.conf
+
 ## Usage
 
 1. Copy your `pwn` file to src/
